@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is React?",
+      "options": [
+        "A JavaScript library for building user interfaces",
+        "A programming language",
+        "A database system",
+        "An operating system"
+      ],
+      "correctAnswer": "A JavaScript library for building user interfaces"
+    },
+    {
+      "id": 2,
+      "question": "What hook is used for managing state in React?",
+      "options": [
+        "useEffect",
+        "useState",
+        "useContext",
+        "useReducer"
+      ],
+      "correctAnswer": "useState"
+    },
+    {
+      "id": 3,
+      "question": "What does TypeScript add to JavaScript?",
+      "options": [
+        "Static typing",
+        "More colors",
+        "Better performance",
+        "Database functionality"
+      ],
+      "correctAnswer": "Static typing"
+    }
+  ]
+} 
